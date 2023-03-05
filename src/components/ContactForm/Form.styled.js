@@ -10,7 +10,7 @@ export const Form = styled.form`
 export const Input = styled.input`
   width: 300px;
   height: 30px;
-  font-size: 18px;
+  font-size: 17px;
   border: none;
   border-radius: 10px;
   padding-left: 10px;
